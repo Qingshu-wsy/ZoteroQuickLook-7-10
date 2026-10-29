@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub：** [shanyueWei/Zotero-QuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
+**GitHub：** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
 
 一个适用于 Zotero 7–10 的跨平台附件快速预览插件。选中文献或附件后按 **Space**，即可用系统预览程序打开本地附件。
 

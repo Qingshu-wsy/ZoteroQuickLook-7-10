@@ -2,11 +2,13 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub:** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/Zotero-QuickLook-7-10)
-
-## At present, testing is only conducted on Zotero version 1.0.6 on the Windows 11 platform, and the functionality is complete. The MacOS and Linux versions of Zotero have not undergone complete feature testing yet. ##
+**GitHub:** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/ZoteroQuickLook-7-10)
 
 A cross-platform add-on for previewing local Zotero attachments on Zotero 7–10. Select an item or attachment and press **Space** to open it with your platform's preview application.
+
+### Testing status
+
+Testing has been conducted only on Windows 11 with Zotero 10.0.6, where the add-on is fully functional. macOS and Linux have not yet undergone complete functional testing.
 
 - **Default shortcut:** Space; configurable in Zotero Settings.
 - **Context menu:** Select an item or attachment and choose **Quick Look**.
@@ -65,7 +67,7 @@ GitHub Actions checks JavaScript syntax and preferences XML, then builds the XPI
 
 - Windows requires QL-Win to already be running. Windows Script Host launches the PowerShell helper hidden to prevent a console from flashing.
 - Linux requires `gloobus-preview` to be installed and available on `PATH`.
-- macOS and Linux preview behavior has not been tested in the current Windows development environment.
+- macOS and Linux have not yet undergone complete functional testing.
 - This project is distributed under the [MIT License](LICENSE).
 
 ### Acknowledgements

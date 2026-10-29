@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Preview Zotero attachments with your operating system's Quick Look tool.",
   "author": "Zotero QuickLook 10 contributors",
-  "homepage_url": "https://github.com/shanyueWei/Zotero-QuickLook-7-10",
+  "homepage_url": "https://github.com/Qingshu-wsy/ZoteroQuickLook-7-10",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png"
@@ -12,7 +12,7 @@
   "applications": {
     "zotero": {
       "id": "zoteroquicklook10@zoteroquicklook.org",
-      "update_url": "https://github.com/shanyueWei/Zotero-QuickLook-7-10/releases/latest/download/updates.json",
+      "update_url": "https://github.com/Qingshu-wsy/ZoteroQuickLook-7-10/releases/latest/download/updates.json",
       "strict_min_version": "7.0",
       "strict_max_version": "10.*"
     }

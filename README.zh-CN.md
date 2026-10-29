@@ -2,11 +2,13 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub：** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/Zotero-QuickLook-7-10)
-
-## 目前仅在windows 11 平台Zotero版本10.0.6 进行测试，功能完整。 MacOs和lunix版本Zotero尚未进行完整功能测试。 ##
+**GitHub：** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/ZoteroQuickLook-7-10)
 
 一个适用于 Zotero 7–10 的跨平台附件快速预览插件。选中文献或附件后按 **Space**，即可用系统预览程序打开本地附件。
+
+### 测试情况
+
+目前仅在 Windows 11 平台、Zotero 10.0.6 上进行测试，功能完整。macOS 与 Linux 版本尚未进行完整功能测试。
 
 - **默认快捷键：** Space，可在 Zotero 设置中修改。
 - **右键菜单：** 选择条目或附件后，点击 **Quick Look**。
@@ -65,7 +67,7 @@ GitHub Actions 会检查 JavaScript 语法、设置页 XML 并构建 XPI。推�
 
 - Windows 需要 QL-Win 已在后台运行。插件通过 Windows Script Host 隐藏启动 PowerShell，避免终端窗口闪现。
 - Linux 需要安装 `gloobus-preview` 并确保命令在 `PATH` 中。
-- 当前开发环境为 Windows，macOS 与 Linux 的预览调用尚未在本机验证。
+- macOS 与 Linux 尚未进行完整功能测试。
 - 项目使用 [MIT 许可证](LICENSE)。
 
 ### 致谢

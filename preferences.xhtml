@@ -1,0 +1,30 @@
+<groupbox
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  xmlns:html="http://www.w3.org/1999/xhtml"
+  onload="ZoteroQuickLookPrefs.init()"
+>
+  <label><html:h2>Zotero QuickLook</html:h2></label>
+  <checkbox id="zql-enabled" label="启用 QuickLook" />
+  <description>在条目列表中使用快捷键预览所选文献的附件。</description>
+  <hbox align="center">
+    <label value="预览快捷键：" />
+    <html:input id="zql-shortcut" type="text" />
+  </hbox>
+  <description>示例：Space、Ctrl+Space、Alt+K。留空可关闭快捷键。</description>
+  <separator />
+  <label><html:h3>自定义预览程序</html:h3></label>
+  <description>留空时使用系统默认方式。Windows 默认通过正在运行的 QuickLook 应用预览。</description>
+  <hbox align="center">
+    <label value="程序完整路径：" />
+    <html:input id="zql-command" type="text" />
+  </hbox>
+  <hbox align="center">
+    <label value="启动参数：" />
+    <html:input id="zql-arguments" type="text" />
+  </hbox>
+  <description>参数中使用 {file} 代表附件路径，例如：--preview "{file}"</description>
+  <hbox>
+    <button id="zql-save" label="保存设置" />
+    <description id="zql-status" />
+  </hbox>
+</groupbox>

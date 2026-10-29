@@ -4,7 +4,7 @@
 
 **GitHub:** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
 
-### At present, testing is only conducted on Zotero version 1.0.6 on the Windows 11 platform, and the functionality is complete. The MacOS and Linux versions of Zotero have not undergone complete feature testing yet. ###
+## At present, testing is only conducted on Zotero version 1.0.6 on the Windows 11 platform, and the functionality is complete. The MacOS and Linux versions of Zotero have not undergone complete feature testing yet. ##
 
 A cross-platform add-on for previewing local Zotero attachments on Zotero 7–10. Select an item or attachment and press **Space** to open it with your platform's preview application.
 

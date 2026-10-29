@@ -4,6 +4,8 @@
 
 **GitHub：** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
 
+## 目前仅在windows 11 平台Zotero版本10.0.6 进行测试，功能完整。 MacOs和lunix版本Zotero尚未进行完整功能测试。 ##
+
 一个适用于 Zotero 7–10 的跨平台附件快速预览插件。选中文献或附件后按 **Space**，即可用系统预览程序打开本地附件。
 
 - **默认快捷键：** Space，可在 Zotero 设置中修改。

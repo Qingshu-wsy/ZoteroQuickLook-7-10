@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub:** [shanyueWei/Zotero-QuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
+**GitHub:** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
 
 A cross-platform add-on for previewing local Zotero attachments on Zotero 7–10. Select an item or attachment and press **Space** to open it with your platform's preview application.
 

@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub：** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
+**GitHub：** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/Zotero-QuickLook-7-10)
 
 ## 目前仅在windows 11 平台Zotero版本10.0.6 进行测试，功能完整。 MacOs和lunix版本Zotero尚未进行完整功能测试。 ##
 

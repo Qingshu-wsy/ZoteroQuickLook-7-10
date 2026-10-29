@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**GitHub:** [shanyueWei/ZoteroQuickLook-7-10](https://github.com/shanyueWei/Zotero-QuickLook-7-10)
+**GitHub:** [Qingshu-wsy/ZoteroQuickLook-7-10](https://github.com/Qingshu-wsy/Zotero-QuickLook-7-10)
 
 ## At present, testing is only conducted on Zotero version 1.0.6 on the Windows 11 platform, and the functionality is complete. The MacOS and Linux versions of Zotero have not undergone complete feature testing yet. ##
 
